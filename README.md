@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oi! eu sou o Jamison Carvalho :D'
 
-<!--
-**JamisonCarvalho/jamisoncarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="right" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="right" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
 
-Here are some ideas to get you started:
+• 💻 Em busca de mudar de carreira <br>
+• 📚 Estudante de Ciência da Computação <br>
+• 🎮 Apaixonado por video-game e tecnologia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=JamisonCarvalho&show_icons=true&theme=radical"> 
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JamisonCarvalho&show_icons=true&theme=radical">
+</div>
+
+<div>
+  <a href="https://www.instagram.com/jamisoncarvalhodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jamisoncarvalho26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jamison-carvalho-5a0a85230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
