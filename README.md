@@ -7,11 +7,12 @@
 • 💻 Em busca de mudar de carreira <br>
 • 📚 Estudante de Ciência da Computação <br>
 • 🎮 Apaixonado por video-game e tecnologia 
-
 <div>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=JamisonCarvalho&show_icons=true&theme=radical"> 
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JamisonCarvalho&show_icons=true&theme=radical">
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=JamisonCarvalho&show_icons=true&theme=tokyonight&border_radius=20"> 
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JamisonCarvalho&show_icons=true&theme=tokyonight&border_radius=10">
 </div>
+
+##
 
 <div>
   <a href="https://www.instagram.com/jamisoncarvalhodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
