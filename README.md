@@ -9,8 +9,8 @@
 • 📚 Estudante de Ciência da Computação <br>
 • 🎮 Apaixonado por video-game e tecnologia 
 <div>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=JamisonCarvalho&show_icons=true&theme=tokyonight&border_radius=20"> 
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JamisonCarvalho&show_icons=true&theme=tokyonight&border_radius=10">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JamisonCarvalho&show_icons=true&theme=tokyonight">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamisonCarvalho&show_icons=true&theme=tokyonight">
 </div>
 
 ##
